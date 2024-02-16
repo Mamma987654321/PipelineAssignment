@@ -12,3 +12,4 @@ C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\refint\Co
 C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.pdb
 C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.genruntimeconfig.cache
 C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ref\ConsoleAppAssign.dll
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.sourcelink.json
