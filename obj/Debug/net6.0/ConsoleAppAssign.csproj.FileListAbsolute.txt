@@ -1,0 +1,14 @@
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.AssemblyInfoInputs.cache
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.AssemblyInfo.cs
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.csproj.CoreCompileInputs.cache
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net6.0\ConsoleAppAssign.exe
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net6.0\ConsoleAppAssign.deps.json
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net6.0\ConsoleAppAssign.runtimeconfig.json
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net6.0\ConsoleAppAssign.dll
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\bin\Debug\net6.0\ConsoleAppAssign.pdb
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.dll
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\refint\ConsoleAppAssign.dll
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.pdb
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ConsoleAppAssign.genruntimeconfig.cache
+C:\Mpahsis1\Feb16th\ConsoleAppAssign\ConsoleAppAssign\obj\Debug\net6.0\ref\ConsoleAppAssign.dll
